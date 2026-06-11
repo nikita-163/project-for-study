@@ -15,9 +15,9 @@ project-for-study
 - Jupyter Notebook
 
 ## Структура проекта
-├── data/           # исходные данные
-├── notebooks/      # Jupyter ноутбуки
-├── reports/        # выводы и графики
-└── requirements.txt
+- data/исходные данные
+- notebooks/Jupyter ноутбуки
+- reports/выводы и графики
+- requirements.txt
 
 ## Выводы
