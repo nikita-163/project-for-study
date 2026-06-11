@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
